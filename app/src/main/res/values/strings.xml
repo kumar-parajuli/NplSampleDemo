@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">npl-samples</string>
+    <string name="start_message">Staring log</string>
+
+</resources>
